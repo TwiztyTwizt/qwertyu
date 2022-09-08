@@ -1,0 +1,16 @@
+{
+  "name": "UFABET",
+  "theme": "UFABET",
+  "version": "10.0.2",
+  "description": "UFABET หรือ ยูฟ่าเบท เป็นเว็บ พนันออนไลน์ ที่มีระบบ ฝากถอนอัตโนมัติ ที่รวดเร็ว",
+  "keywords": [
+    "UFABET",
+    "ยูฟ่าเบท",
+    "ufa"
+  ],
+  "repository": "https://github.com/TwiztyTwizt/UFABET.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
